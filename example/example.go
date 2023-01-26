@@ -21,7 +21,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/dpup/gohubbub"
+	"github.com/HTYISABUG/gohubbub"
 )
 
 type Feed struct {

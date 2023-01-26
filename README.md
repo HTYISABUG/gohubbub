@@ -4,7 +4,7 @@ GoHubbub
 A [PubSubHubbub](https://pubsubhubbub.googlecode.com/) subscriber client library
 for Go (golang).
 
-For API documentation see https://godoc.org/github.com/dpup/gohubbub
+For API documentation see https://godoc.org/github.com/HTYISABUG/gohubbub
 
 Example
 -------
@@ -12,7 +12,7 @@ Example
 gohubbub can start its own HTTP server:
 
 ```go
-import "github.com/dpup/gohubbub"
+import "github.com/HTYISABUG/gohubbub"
 
 // ...
 
@@ -27,7 +27,7 @@ Or if you have your own server, you can register the gohubbub request handler on
 your own mux and then call `client.Run()` when your server is running:
 
 ```go
-import "github.com/dpup/gohubbub"
+import "github.com/HTYISABUG/gohubbub"
 
 // ...
 
@@ -52,7 +52,7 @@ that is.
 Contributing
 ------------
 Questions, comments, bug reports, and pull requests are all welcome.  Submit
-them [on the project issue tracker](https://github.com/dpup/gohubbub/issues/new).
+them [on the project issue tracker](https://github.com/HTYISABUG/gohubbub/issues/new).
 
 License
 -------
